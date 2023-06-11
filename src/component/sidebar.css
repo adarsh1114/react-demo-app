@@ -1,0 +1,20 @@
+.search-result{
+    margin-left: 15px;
+    margin-top: 40px;
+}
+.category{
+    padding-left: 5px;
+}
+.rating{
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+.checked {
+    color: orange;
+  }
+ input{
+    font-size: 23px; 
+}
+span{
+    font-size: 23px; 
+}

@@ -1,0 +1,16 @@
+.searchinput{
+    width: 97%;
+}
+.search-icon {
+    position: absolute;
+    right: 348px;
+    top: 4%;
+    transform: translateY(-50%);
+    color: #888;
+    cursor: pointer;
+  }
+  
+  .search-icon:hover {
+    color: #555;
+  }
+  

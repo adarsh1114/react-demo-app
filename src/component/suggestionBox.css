@@ -1,0 +1,12 @@
+.suggestionBox {
+    position: fixed;
+    z-index: 1000;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      margin: auto;
+      padding: 10px;
+      font-family: arial;
+      width: 620px;
+  }
+  .suggest-pro-img {
+    width: 50px;
+  }
